@@ -1,0 +1,2 @@
+/root/yolov5-master/VOCData/images/z_img_302.jpg
+/root/yolov5-master/VOCData/images/.ipynb_checkpo.jpg

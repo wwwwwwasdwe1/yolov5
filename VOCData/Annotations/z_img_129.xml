@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_data</folder>
+	<filename>z_img_129.jpg</filename>
+	<path>D:\img_data\z_img_129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2436</xmin>
+			<ymin>294</ymin>
+			<xmax>2542</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>
